@@ -365,7 +365,7 @@ footer {
 .footer-contact-information-links-social-media {
   height: 100px;
   display: flex;
-  justify-content: center;
+  margin: 0 auto;
   align-items: center;
   column-gap: 16px;
   transition-duration: 4ms;
